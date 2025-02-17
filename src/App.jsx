@@ -6,7 +6,8 @@ function App() {
 
   return (
     <>
-    hey shiv
+    <h1>e-commerce website</h1>
+    <p>hey shiv is here</p>
     </>
   )
 }
